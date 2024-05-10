@@ -1,0 +1,13 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
+1,15634602,Hale,619,France,Female,42,2,0.0,1,1,1,101348.88
+2,15647311,Yılmaz,608,Spain,Female,41,1,83807.86,1,0,1,112542.58
+3,15619304,Kaya,502,France,Male,42,8,159660.8,3,1,0,113931.57
+4,15701354,Demir,699,France,Female,39,1,0.0,2,0,0,93826.63
+5,15737888,Öztürk,850,Spain,Male,43,2,125510.82,1,1,1,79084.1
+6,15574012,Aydın,645,Germany,Male,44,8,113755.78,2,1,0,149756.71
+7,15592531,Şahin,822,France,Female,50,7,0.0,2,1,1,10062.8
+8,15656148,Çelik,376,Germany,Female,29,4,115046.74,4,1,0,119346.88
+9,15792365,Arslan,501,Spain,Male,44,4,142051.07,2,0,1,74940.5
+10,15592389,Koç,684,Germany,Male,27,2,134603.88,1,1,1,71725.73
+11,15628319,Polat,540,France,Female,35,5,0.0,1,0,0,180000.0
+12,15692873,Aslan,612,Spain,Male,60,10,132602.88,2,1,0,52000.0

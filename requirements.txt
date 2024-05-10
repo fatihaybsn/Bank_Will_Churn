@@ -1,0 +1,6 @@
+tensorflow>=2.12
+pandas>=2.0
+numpy>=1.25
+scikit-learn==1.7.2
+streamlit>=1.32
+openpyxl>=3.1
