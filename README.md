@@ -18,6 +18,9 @@ A short demo showcasing the Streamlit interface and model predictions.
   * **Batch analysis:** upload a CSV/XLSX and download predictions.
 * **Decision policy:** If churn probability **> 0.65**, the customer is flagged as likely to churn.
 * **Artifacts:** Trained Keras model (`.keras/.h5/.hdf5`). Optional preprocessing pickles can be used if available.
+<img width="1897" height="902" alt="Ekran görüntüsü 2025-10-28 195800" src="https://github.com/user-attachments/assets/06e81c96-9614-45bd-b296-0b992f1a8b13" />
+
+<img width="1896" height="888" alt="Ekran görüntüsü 2025-10-28 195823" src="https://github.com/user-attachments/assets/6bcccffc-1cc2-4919-8458-4caf625a1dbc" />
 
 ---
 
@@ -42,6 +45,7 @@ A short demo showcasing the Streamlit interface and model predictions.
 
 Help banks proactively identify at‑risk customers and prioritize retention offers. Customers above the **0.65** threshold are segmented for targeted campaigns.
 
+<img width="1878" height="889" alt="Ekran görüntüsü 2025-10-28 195927" src="https://github.com/user-attachments/assets/097f3f19-7280-42d5-8d78-b14baabb2422" />
 ---
 
 ## 4) Installation
@@ -93,6 +97,7 @@ streamlit run churn_ui_streamlit.py
 * **Compile:** `optimizer='adam'`, `loss='binary_crossentropy'`, `metrics=['accuracy']`.
 * **Output:** Churn probability in `[0, 1]` per customer.
 
+<img width="1883" height="892" alt="Ekran görüntüsü 2025-10-28 200042" src="https://github.com/user-attachments/assets/802cbc26-3281-4e88-a80f-7213098c2537" />
 ---
 
 ## 8) UI at a Glance
